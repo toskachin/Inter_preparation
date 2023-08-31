@@ -1,5 +1,5 @@
 ## Kubernetes Components Architecture
-![Alt text](images/image.png)
+![Alt text](image.png)
 
 ## K8s key Components
 

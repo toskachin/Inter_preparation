@@ -2,7 +2,7 @@
 
 * Linux performance tools
 
-![image](images/Linux_performance_tools.png)
+![image](Linux_performance_tools.png)
 
 * How to show ip address only on Centos
   
